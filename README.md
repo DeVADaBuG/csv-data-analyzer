@@ -1,3 +1,1 @@
-# python-project-12
-
-Automated repository creation.
+# csv-data-analyzer\n\nA data analysis tool configured to ingest CSV files, compute statistical mathematical summaries, and handle missing dataset values.\n
